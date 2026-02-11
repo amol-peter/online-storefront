@@ -1,0 +1,29 @@
+{
+  "name": "online-storefront",
+  "version": "1.0.0",
+  "description": "This is a simple application with static data to mimic an online store with products",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amol-peter/online-storefront.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amol-peter/online-storefront/issues"
+  },
+  "homepage": "https://github.com/amol-peter/online-storefront#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
