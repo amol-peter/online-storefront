@@ -21,23 +21,23 @@ app.get("/", (req, res)=> {
 
 })
 
-// app.get("/products", (req,res) => {
-//   // console.log(products);
-//   res.json(products);
+app.get("/products", (req,res) => {
+  // console.log(products);
+  res.json(products);
   
-// })
+})
 
-// app.get("/products/:id", (req, res)=> {
-//   const productId = parseInt(req.params.id)
+app.get("/products/:id", (req, res)=> {
+  const productId = parseInt(req.params.id)
 
-//   const product = products.find(product => product.id === productId)
+  const product = products.find(product => product.id === productId)
 
-//   if(!product){
-//     res.status(404).json({msg: "Product not found"})
-//   }
+  if(!product){
+    res.status(404).json({msg: "Product not found"})
+  }
 
-//   res.json(product);
-// })
+  res.json(product);
+})
 
 
 
