@@ -6,10 +6,11 @@ export const getAllProducts = (req, res) => {
 }
 
 
-export const getProductById = (req, res) => {
+export const getProductById = async (req, res) => {
     const productId = parseInt(req.params.id)
 
-    const product = products.find(product => product.id === productId)
+    const product =  products.find(product => product.id === productId)
+
     if (!product) {
         return res.status(404).json({msg: "Product not found"});
     }
