@@ -108,6 +108,116 @@
     "rating": 4.4,
     "reviewsCount": 89,
     "description": "Modern LED desk lamp with adjustable brightness levels."
+  },
+  {
+    "id": 11,
+    "name": "Wireless Bluetooth Headphones",
+    "category": "Electronics",
+    "price": 79.99,
+    "currency": "USD",
+    "stock": 120,
+    "rating": 4.5,
+    "reviewsCount": 342,
+    "description": "Comfortable over-ear wireless headphones with deep bass and long battery life."
+  },
+  {
+    "id": 12,
+    "name": "Smart Fitness Watch",
+    "category": "Wearables",
+    "price": 129.99,
+    "currency": "USD",
+    "stock": 75,
+    "rating": 4.3,
+    "reviewsCount": 198,
+    "description": "Track workouts, heart rate, and daily activity with this waterproof smartwatch."
+  },
+  {
+    "id": 13,
+    "name": "Office Chair",
+    "category": "Furniture",
+    "price": 249.99,
+    "currency": "USD",
+    "stock": 40,
+    "rating": 4.7,
+    "reviewsCount": 87,
+    "description": "Adjustable ergonomic office chair designed for all-day comfort."
+  },
+  {
+    "id": 14,
+    "name": "Portable Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 59.99,
+    "currency": "USD",
+    "stock": 150,
+    "rating": 4.4,
+    "reviewsCount": 215,
+    "description": "Compact wireless speaker with powerful sound and deep bass."
+  },
+  {
+    "id": 15,
+    "name": "Gaming Mechanical Keyboard",
+    "category": "Accessories",
+    "price": 99.99,
+    "currency": "USD",
+    "stock": 65,
+    "rating": 4.6,
+    "reviewsCount": 124,
+    "description": "RGB mechanical keyboard designed for gamers and professionals."
+  },
+  {
+    "id": 16,
+    "name": "4K Ultra HD Monitor",
+    "category": "Electronics",
+    "price": 399.99,
+    "currency": "USD",
+    "stock": 30,
+    "rating": 4.8,
+    "reviewsCount": 76,
+    "description": "27-inch 4K monitor with vivid colors and ultra-thin bezels."
+  },
+  {
+    "id": 17,
+    "name": "Leather Travel Backpack",
+    "category": "Fashion",
+    "price": 89.99,
+    "currency": "USD",
+    "stock": 90,
+    "rating": 4.2,
+    "reviewsCount": 54,
+    "description": "Stylish leather backpack suitable for travel and daily use."
+  },
+  {
+    "id": 18,
+    "name": "Stainless Steel Water Bottle",
+    "category": "Home & Kitchen",
+    "price": 24.99,
+    "currency": "USD",
+    "stock": 200,
+    "rating": 4.6,
+    "reviewsCount": 310,
+    "description": "Insulated stainless steel bottle that keeps drinks cold or hot for hours."
+  },
+  {
+    "id": 19,
+    "name": "Wireless Mouse",
+    "category": "Accessories",
+    "price": 29.99,
+    "currency": "USD",
+    "stock": 140,
+    "rating": 4.1,
+    "reviewsCount": 167,
+    "description": "Ergonomic wireless mouse with precise tracking and long battery life."
+  },
+  {
+    "id": 20,
+    "name": "LED Desk Lamp",
+    "category": "Home & Office",
+    "price": 49.99,
+    "currency": "USD",
+    "stock": 110,
+    "rating": 4.4,
+    "reviewsCount": 89,
+    "description": "Modern LED desk lamp with adjustable brightness levels."
   
   }
 ]
